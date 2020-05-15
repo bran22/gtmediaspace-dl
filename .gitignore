@@ -1,0 +1,4 @@
+# dist files and directories
+*.egg-info
+/build
+/dist
